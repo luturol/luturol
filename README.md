@@ -1,6 +1,6 @@
 ### Hi!! I'm Rafael Ahrons
 
-- 🔭 I’m currently working on [a Top Down Shooter game made with Unity](https://github.com/luturol/topdownshooter)
+- 🔭 I’m currently working on [Mage Jam 2022](https://github.com/luturol/mage-jam-2022)
 - 🌱 I’m currently [learning Unity and Selenium](https://github.com/luturol/LearningCSharp)
 - 📫 How to reach me: rafael.ahrons@gmail.com
 - 😄 Pronouns: he/him
