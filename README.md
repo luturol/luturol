@@ -1,7 +1,7 @@
 ### Hi!! I'm Rafael Ahrons
 
-- 🔭 I’m currently working on [Mage Jam 2022](https://github.com/luturol/mage-jam-2022)
-- 🌱 I’m currently [learning Unity and Selenium](https://github.com/luturol/LearningCSharp)
+- 🔭 I’m currently working on [Tower of Kings](https://github.com/luturol/tcc)
+- 🌱 I’m currently [learning Java](https://github.com/luturol/LearningJava)
 - 📫 How to reach me: rafael.ahrons@gmail.com
 - 😄 Pronouns: he/him
 
