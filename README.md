@@ -1,6 +1,6 @@
 ### Hi!! I'm Rafael Ahrons
 
-- 🔭 I’m currently working on [Tower of Kings](https://github.com/luturol/tcc)
+- 🔭 I’m currently working on [Witch Training](https://github.com/luturol/tcc)
 - 🌱 I’m currently [learning Java](https://github.com/luturol/LearningJava)
 - 📫 How to reach me: rafael.ahrons@gmail.com
 - 😄 Pronouns: he/him
