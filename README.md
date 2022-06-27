@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on [Witch Training](https://github.com/luturol/tcc)
 - 🌱 I’m currently [learning Java](https://github.com/luturol/LearningJava)
 - 📫 How to reach me: rafael.ahrons@gmail.com
-- 😄 Pronouns: he/him
 - :books:	Go check my [blog](https://luturol.github.io/) to learn more about programming
 - :video_game: Play my games on my [itch.io page](https://luturol.itch.io/)
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/luturol">
