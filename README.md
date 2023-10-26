@@ -1,7 +1,6 @@
 ### Hi!! I'm Rafael Ahrons
 
-- 🔭 I’m currently working on [Tech Interview Study](https://github.com/luturol/tech-interview-study)
-- 🌱 I’m currently learning AWS and more about C#
+- 🌱 I’m currently learning Azure and more about C#
 - 📫 How to reach me: rafael.ahrons@gmail.com
 - :books:	Go check my [blog](https://luturol.github.io/) to learn more about programming
 - :video_game: Play my games on my [itch.io page](https://luturol.itch.io/)
