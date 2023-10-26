@@ -13,7 +13,8 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="csharp badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-  <img align="center" alt="Unity bagde" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"/>
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 </div>  
  
   ##
