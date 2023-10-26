@@ -6,18 +6,14 @@
 - :video_game: Play my games on my [itch.io page](https://luturol.itch.io/)
 - 😄 Pronouns: he/him
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
 <div align="left">
   <a href="https://github.com/luturol">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luturol&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="csharp badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-  
-</div>  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
- 
+
   ##
   
 <div>   
