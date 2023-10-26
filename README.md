@@ -6,7 +6,7 @@
 - :video_game: Play my games on my [itch.io page](https://luturol.itch.io/)
 - 😄 Pronouns: he/him
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/luturol">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luturol&layout=compact&langs_count=7&theme=dracula"/>
 </div>
